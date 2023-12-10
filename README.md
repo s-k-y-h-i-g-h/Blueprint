@@ -2,7 +2,7 @@
 A blueprint for becoming transhuman.
 
 # Nootropics
-- [[Taurine]]
+- [Taurine](Taurine.md)
 
 # Resources
 ## Useful sites
