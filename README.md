@@ -1,6 +1,9 @@
 # Blueprint
 A blueprint for becoming transhuman.
 
+# Nootropics
+- [[Taurine]]
+
 # Resources
 ## Useful sites
 - [Bryan Johnson's Protocol](https://protocol.bryanjohnson.com/)
