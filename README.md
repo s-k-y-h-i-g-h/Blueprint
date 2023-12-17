@@ -9,7 +9,7 @@ A blueprint for becoming transhuman.
 - [Oxiracetam](substances/Oxiracetam.md)
 - [Nefiracetam](substances/Nefiracetam.md)
 - [Taurine](substances/Taurine.md)
-- [Candidate compounds](substances/Candidate Compounds.md)
+- [Candidate compounds](substances/CandidateCompounds.md)
 
 # Vendors
 - [Euro Nootropics](https://euro-nootropics.com/)
