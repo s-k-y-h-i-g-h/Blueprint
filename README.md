@@ -3,6 +3,11 @@ A blueprint for becoming transhuman.
 
 # Nootropics
 - [Piracetam](substances/Piracetam.md)
+- [Pramiracetam](substances/Pramiracetam.md)
+- [Phenylpiracetam](substances/Phenylpiracetam.md)
+- [Aniracetam](substances/Aniracetam.md)
+- [Oxiracetam](substances/Oxiracetam.md)
+- [Nefiracetam](substances/Nefiracetam.md)
 - [Taurine](substances/Taurine.md)
 
 # Vendors
