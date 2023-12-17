@@ -2,7 +2,8 @@
 A blueprint for becoming transhuman.
 
 # Nootropics
-- [Taurine](Taurine.md)
+- [Piracetam](substances/Piracetam.md)
+- [Taurine](substances/Taurine.md)
 
 # Vendors
 - [Euro Nootropics](https://euro-nootropics.com/)
