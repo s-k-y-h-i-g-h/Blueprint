@@ -17,6 +17,7 @@ A blueprint for becoming transhuman.
 - [Alkonchem](https://www.alkonchem.com/)
 - [Penchant Bio](https://penchant.bio/)
 - [UnitedPharmacies](https://www.unitedpharmacies-uk.md/)
+- [Inhouse Pharmacy](https://www.inhousepharmacy.vu/)
 
 # Resources
 ## Useful sites
