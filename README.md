@@ -10,6 +10,7 @@ A blueprint for becoming transhuman.
 - [Intellimeds.net](https://www.intellimeds.net/index.php?route=common/home)
 - [Amazon](https://www.amazon.com)
 - [Alkonchem](https://www.alkonchem.com/)
+- [Penchant Bio](https://penchant.bio/)
 
 # Resources
 ## Useful sites
