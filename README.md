@@ -18,6 +18,13 @@ A blueprint for becoming transhuman.
 - [Penchant Bio](https://penchant.bio/)
 - [UnitedPharmacies](https://www.unitedpharmacies-uk.md/)
 - [Inhouse Pharmacy](https://www.inhousepharmacy.vu/)
+- [Cerebra](https://cerebra-nootropics.com/)
+- [Next Valley](https://nextvalley.com/)
+- [Swiss Herbal](https://swissherbal.eu/)
+- [Zion Pharma](https://aniracetam.eu/)
+- [PGL Chemie](https://pglchem.com/)
+- [ebay](https://www.ebay.com/)
+- [iHerb](https://iherb.com/)
 
 # Resources
 ## Useful sites
