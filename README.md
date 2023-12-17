@@ -21,7 +21,7 @@ A blueprint for becoming transhuman.
 # Resources
 ## Useful sites
 - [Bryan Johnson's Protocol](https://protocol.bryanjohnson.com/)
-- [Nootropics Subreddit on Reddit.com](http://reddit.com/r/nootropics)
+- [Nootropics subreddit on Reddit.com](http://reddit.com/r/nootropics)
 - [Lifespan.io](https://www.lifespan.io)
 
 ## Talk to fellow enthusiasts
