@@ -64,7 +64,7 @@ A blueprint for becoming transhuman.
 ## Talk to fellow enthusiasts
 - [Prefrontal Discord Server](https://discord.gg/GGhPxUbD)
 - [NooTopics Discord Server](https://discord.gg/TYGCB4xp)
-- [Lifespan.io Discord Server](https://discord.gg/BFkHGJzh)
+- [Lifespan.io Discord Server](https://discord.gg/Zjm8Nny5)
 
 # Contact Us
 - [On Discord](https://discord.gg/6vmC5Vfr)
