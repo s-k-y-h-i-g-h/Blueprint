@@ -56,7 +56,7 @@ A blueprint for becoming transhuman.
 - [iHerb](https://iherb.com/)
 
 # Resources
-## Useful sites
+## Useful Sites
 - [Bryan Johnson's Protocol](https://protocol.bryanjohnson.com/)
 - [Nootropics subreddit on Reddit.com](http://reddit.com/r/nootropics)
 - [Lifespan.io](https://www.lifespan.io)
