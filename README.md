@@ -61,6 +61,9 @@ A blueprint for becoming transhuman.
 - [Nootropics subreddit on Reddit.com](http://reddit.com/r/nootropics)
 - [Lifespan.io](https://www.lifespan.io)
 
+## Articles
+- [Treatment of Neuropsychiatric Disorders Marked by Dopaminergic, Mitochondrial Dysfunction and Hypofrontality (Treatment-Resistant Depression, Anhedonia, PSSD/PFS, ADHD, Long-COVID Syndrome, Fibromyalgia/CFS, Etc)](https://docs.google.com/document/d/1uL2o07Kym9iRHS2PDz3E6AecwNQJZFpYL1-XTxl17gY/edit?pli=1#heading=h.ehle99nkz9of)
+
 ## Talk to fellow enthusiasts
 - [Prefrontal Discord Server](https://discord.gg/GGhPxUbD)
 - [NooTopics Discord Server](https://discord.gg/TYGCB4xp)
