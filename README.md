@@ -40,6 +40,7 @@ A blueprint for becoming transhuman.
 - [Taurine](substances/Taurine.md)
 
 | Name | Information | Vendors |
+| ---- | ----------- | ------- |
 | Piracetam | [w](https://en.wikipedia.org/wiki/Piracetam) [e](https://examine.com/supplements/piracetam/) | N/A |
 
 # Vendors
