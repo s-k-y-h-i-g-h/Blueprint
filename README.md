@@ -36,8 +36,11 @@ A blueprint for becoming transhuman.
 - [Aniracetam](substances/Aniracetam.md)
 - [Oxiracetam](substances/Oxiracetam.md)
 - [Nefiracetam](substances/Nefiracetam.md)
+- [Coluracetam](substances/Coluracetam.md)
 - [Taurine](substances/Taurine.md)
-- [Candidate compounds](substances/CandidateCompounds.md)
+
+| Name | Information | Vendors |
+| Piracetam | [w](https://en.wikipedia.org/wiki/Piracetam) [e](https://examine.com/supplements/piracetam/) | N/A |
 
 # Vendors
 - [Euro Nootropics](https://euro-nootropics.com/)
@@ -56,18 +59,15 @@ A blueprint for becoming transhuman.
 - [iHerb](https://iherb.com/)
 
 # Resources
-## Useful Sites
+## Useful sites
 - [Bryan Johnson's Protocol](https://protocol.bryanjohnson.com/)
 - [Nootropics subreddit on Reddit.com](http://reddit.com/r/nootropics)
 - [Lifespan.io](https://www.lifespan.io)
 
-## Articles
-- [Treatment of Neuropsychiatric Disorders Marked by Dopaminergic, Mitochondrial Dysfunction and Hypofrontality (Treatment-Resistant Depression, Anhedonia, PSSD/PFS, ADHD, Long-COVID Syndrome, Fibromyalgia/CFS, Etc)](https://docs.google.com/document/d/1uL2o07Kym9iRHS2PDz3E6AecwNQJZFpYL1-XTxl17gY/edit?pli=1#heading=h.ehle99nkz9of)
-
 ## Talk to fellow enthusiasts
 - [Prefrontal Discord Server](https://discord.gg/GGhPxUbD)
 - [NooTopics Discord Server](https://discord.gg/TYGCB4xp)
-- [Lifespan.io Discord Server](https://discord.gg/Zjm8Nny5)
+- [Lifespan.io Discord Server](https://discord.gg/BFkHGJzh)
 
 # Contact Us
 - [On Discord](https://discord.gg/6vmC5Vfr)
