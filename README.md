@@ -30,18 +30,24 @@ A blueprint for becoming transhuman.
     1. **WORK IN PROGRESS**
 
 # Nootropics
-- [Piracetam](substances/Piracetam.md)
-- [Pramiracetam](substances/Pramiracetam.md)
-- [Phenylpiracetam](substances/Phenylpiracetam.md)
-- [Aniracetam](substances/Aniracetam.md)
-- [Oxiracetam](substances/Oxiracetam.md)
-- [Nefiracetam](substances/Nefiracetam.md)
-- [Coluracetam](substances/Coluracetam.md)
-- [Taurine](substances/Taurine.md)
 
 | Name | Information | Vendors |
 | ---- | ----------- | ------- |
 | Piracetam | [w](https://en.wikipedia.org/wiki/Piracetam) [e](https://examine.com/supplements/piracetam/) | N/A |
+| Pramiracetam | N/A | N/A |
+| Phenylpiracetam | N/A | N/A |
+| Aniracetam | N/A | N/A |
+| Oxiracetam | N/A | N/A |
+| Nefiracetam | N/A | N/A |
+| Coluracetam | N/A | N/A |
+| ALCAR | N/A | N/A |
+| Taurine | N/A | N/A |
+| DMAE | N/A | N/A |
+| L-Tryptophan | N/A | N/A |
+| L-Phenylalanine | N/A | N/A |
+| Modafinil | N/A | N/A |
+| Fl-Modafinil | N/A | N/A |
+| 4Cl-Modafinil | N/A | N/A |
 
 # Vendors
 - [Euro Nootropics](https://euro-nootropics.com/)
