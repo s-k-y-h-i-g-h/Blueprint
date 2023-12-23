@@ -40,14 +40,27 @@ A blueprint for becoming transhuman.
 | Oxiracetam | N/A | N/A |
 | Nefiracetam | N/A | N/A |
 | Coluracetam | N/A | N/A |
+| Noopept | N/A | N/A |
 | ALCAR | N/A | N/A |
 | Taurine | N/A | N/A |
 | DMAE | N/A | N/A |
 | L-Tryptophan | N/A | N/A |
 | L-Phenylalanine | N/A | N/A |
+| L-Theanine | N/A | N/A |
 | Modafinil | N/A | N/A |
 | Fl-Modafinil | N/A | N/A |
 | 4Cl-Modafinil | N/A | N/A |
+| Pemoline | N/A | N/A |
+| Cyclazodone | N/A | N/A |
+| N-Methyl-Cyclazodone | N/A | N/A |
+| Tropisterone | N/A | N/A |
+| Semax | N/A | N/A |
+| N-Acetyl-Semax | N/A | N/A |
+| Selank | N/A | N/A |
+| Metformin | N/A | N/A |
+| Niacin | N/A | N/A |
+| Inositol | N/A | N/A |
+| Ashwaganda | N/A | N/A |
 
 # Vendors
 - [Euro Nootropics](https://euro-nootropics.com/)

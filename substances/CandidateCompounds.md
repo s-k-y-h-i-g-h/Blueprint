@@ -16,16 +16,16 @@
 - Potassium nitrate 
 - Been root extract 
 - Glycine 
-- L-theanine (sublingual) 
+- L-theanine (sublingual) x
 - L-threonate 
-- Inositol 
+- Inositol x
 - Malate 
-- Ashwaganda 
-- N-methyl-cyclazadone 
+- Ashwaganda x
+- N-methyl-cyclazadone x
 - Kisspetin 
-- Noopept 
-- Phenylpiracetam 
-- Taurine 
+- Noopept x
+- Phenylpiracetam x
+- Taurine x
 - Creatine (increases DHT(?)) 
 - Citicholine 
 - BCAAs  
