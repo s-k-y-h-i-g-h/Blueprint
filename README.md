@@ -40,6 +40,7 @@ A blueprint for becoming transhuman.
 | Oxiracetam | N/A | N/A |
 | Nefiracetam | N/A | N/A |
 | Coluracetam | N/A | N/A |
+| Fasoracetam | N/A | N/A |
 | Noopept | N/A | N/A |
 | ALCAR | N/A | N/A |
 | Taurine | N/A | N/A |
@@ -61,6 +62,22 @@ A blueprint for becoming transhuman.
 | Niacin | N/A | N/A |
 | Inositol | N/A | N/A |
 | Ashwaganda | N/A | N/A |
+| Melatonin | N/A | N/A |
+| Phenibut | N/A | N/A |
+| 4-Fluorophenibut | N/A | N/A |
+| IDRA-21 | N/A | N/A |
+| Bacopa | N/A | N/A |
+| CDP Choline | N/A | N/A |
+| Alpha GPC | N/A | N/A |
+| Rhodiola Rosea | N/A | N/A |
+| Bromantane | N/A | N/A |
+| Boron | N/A | N/A |
+| BPC-157 | N/A | N/A |
+| NSI-189 | N/A | N/A |
+| 9-Me-BC | N/A | N/A |
+| Selegiline | N/A | N/A |
+| SAMe | N/A | N/A |
+| TAK-653 | N/A | N/A |
 
 # Vendors
 - [Euro Nootropics](https://euro-nootropics.com/)
