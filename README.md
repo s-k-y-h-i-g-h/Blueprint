@@ -78,6 +78,26 @@ A blueprint for becoming transhuman.
 | Selegiline | N/A | N/A |
 | SAMe | N/A | N/A |
 | TAK-653 | N/A | N/A |
+| Kava | N/A | N/A |
+| Kanna | N/A | N/A |
+| Cariprazine | N/A | N/A |
+| Myricetin | N/A | N/A |
+| Methylfolate | N/A | N/A |
+| Methylene blue | N/A | N/A |
+| Pansterone | N/A | N/A |
+| Neboglamine | N/A | N/A |
+| Memantine | N/A | N/A |
+| Bifemelane | N/A | N/A |
+
+# Longevity Drugs
+| Name | Information | Vendors |
+| ---- | ----------- | ------- |
+| Epitalon | N/A | N/A |
+
+# Other Drugs
+| Name | Information | Vendors |
+| ---- | ----------- | ------- |
+| GBR-12935 | N/A | N/A |
 
 # Vendors
 - [Euro Nootropics](https://euro-nootropics.com/)
