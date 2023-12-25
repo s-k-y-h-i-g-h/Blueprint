@@ -241,28 +241,13 @@
 - Meclofenoxate  
 - Euclidan  
 - Pyritinol  
-- Gutimin  
-- Nicotinoyl-GABA 
-- Vasopressin  
-- Oxytocin  
-- Melanostatin  
-- Pyroglutamyl  
 - Dipeptides  
 - 2-ethyl-6-methyl-3-oxypiridine 
-- Ionol  
-- Aethimizolum  
-- Orotic acid 
-- Methyl glucorotate  
-- Oxymetacil  
-- Xanthinol nicotinate  
-- Lemongrass  
-- Sulbutiamine  
+- Oxymetacil  ?
+- Lemongrass   ?
 - Sydnocarb  
-- Fenamine  
 - Calcium channel blockers 
-- Ginko biloba 
 - Raloxifene  
-- Blue lotus
 - Sarcosine – helps with schizophrenia 
 - TMG 
 - Red light therapy 
@@ -275,3 +260,4 @@
 - Buprenorphine (for schizophrenia, as a kappa-opioid antagonist) 
 - Probiotics (kefir recommend by Kuja, instead of capsules which could be dead) 
 4dma
+urb597 (cannabinoid metabolism inhibitor)

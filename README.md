@@ -93,6 +93,18 @@ A blueprint for becoming transhuman.
 | Nicergoline | N/A | N/A |
 | Gammalon | N/A | N/A |
 | Pantogam | N/A | N/A |
+| Sulbutiamine | N/A | N/A |
+| Xanthinol Nicotinate | N/A | N/A |
+| Methyl Glucorotate | N/A | N/A |
+| Orotic Acid | N/A | N/A |
+| Aethimizolum | N/A | N/A |
+| Ionol | N/A | N/A |
+| Pyroglutamyl | N/A | N/A |
+| Melanostatin | N/A | N/A |
+| Oxytocin | N/A | N/A |
+| Vasopressin | N/A | N/A |
+| Picamilon | N/A | N/A |
+| Gutimin | N/A | N/A |
 
 # Longevity Drugs
 
@@ -106,6 +118,7 @@ A blueprint for becoming transhuman.
 | Name | Information | Vendors |
 | ---- | ----------- | ------- |
 | GBR-12935 | N/A | N/A |
+| Blue lotus | N/A | N/A |
 
 # Vendors
 - [Euro Nootropics](https://euro-nootropics.com/)
@@ -128,6 +141,9 @@ A blueprint for becoming transhuman.
 - [Bryan Johnson's Protocol](https://protocol.bryanjohnson.com/)
 - [Nootropics subreddit on Reddit.com](http://reddit.com/r/nootropics)
 - [Lifespan.io](https://www.lifespan.io)
+
+## Books
+- [Medical Improvement of the Cognitive Brain Function (Nootropics)](https://cosmicnootropic.com/wp-content/uploads/2023/08/Books-about-Nootropics.-Arushanian_final-with-the-cover.pdf)
 
 ## Talk to fellow enthusiasts
 - [Prefrontal Discord Server](https://discord.gg/GGhPxUbD)
