@@ -95,12 +95,14 @@ A blueprint for becoming transhuman.
 | Pantogam | N/A | N/A |
 
 # Longevity Drugs
+
 | Name | Information | Vendors |
 | ---- | ----------- | ------- |
 | Epitalon | N/A | N/A |
 | Vincamine | N/A | N/A |
 
 # Other Drugs
+
 | Name | Information | Vendors |
 | ---- | ----------- | ------- |
 | GBR-12935 | N/A | N/A |
