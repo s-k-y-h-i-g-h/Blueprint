@@ -41,6 +41,7 @@ A blueprint for becoming transhuman.
 | Nefiracetam | N/A | N/A |
 | Coluracetam | N/A | N/A |
 | Fasoracetam | N/A | N/A |
+| Rolziracetam | N/A | N/A |
 | Noopept | N/A | N/A |
 | ALCAR | N/A | N/A |
 | Taurine | N/A | N/A |
@@ -88,11 +89,16 @@ A blueprint for becoming transhuman.
 | Neboglamine | N/A | N/A |
 | Memantine | N/A | N/A |
 | Bifemelane | N/A | N/A |
+| Hydergine | N/A | N/A |
+| Nicergoline | N/A | N/A |
+| Gammalon | N/A | N/A |
+| Pantogam | N/A | N/A |
 
 # Longevity Drugs
 | Name | Information | Vendors |
 | ---- | ----------- | ------- |
 | Epitalon | N/A | N/A |
+| Vincamine | N/A | N/A |
 
 # Other Drugs
 | Name | Information | Vendors |

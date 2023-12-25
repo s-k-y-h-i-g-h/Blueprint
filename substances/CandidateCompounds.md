@@ -242,12 +242,7 @@
 - Euclidan  
 - Pyritinol  
 - Gutimin  
-- Nicotinoyl-GABA  
-- Pantogam  
-- Gammalon  
-- Nicergoline  
-- Vincamine  
-- Hydergine  
+- Nicotinoyl-GABA 
 - Vasopressin  
 - Oxytocin  
 - Melanostatin  
@@ -262,7 +257,6 @@
 - Xanthinol nicotinate  
 - Lemongrass  
 - Sulbutiamine  
-- Rolziracetam  
 - Sydnocarb  
 - Fenamine  
 - Calcium channel blockers 
