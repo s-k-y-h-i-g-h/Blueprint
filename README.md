@@ -31,13 +31,16 @@ A blueprint for becoming transhuman.
 | Coluracetam | N/A | N/A |
 | Fasoracetam | N/A | N/A |
 | Rolziracetam | N/A | N/A |
+| Nebracetam | N/A | N/A |
 | Noopept | N/A | N/A |
+| Nooglutyl | N/A | N/A |
 | ALCAR | N/A | N/A |
 | Taurine | N/A | N/A |
 | DMAE | N/A | N/A |
 | L-Tryptophan | N/A | N/A |
 | L-Phenylalanine | N/A | N/A |
 | L-Theanine | N/A | N/A |
+| L-Glutamine | N/A | N/A |
 | Modafinil | N/A | N/A |
 | Fl-Modafinil | N/A | N/A |
 | 4Cl-Modafinil | N/A | N/A |
@@ -94,6 +97,17 @@ A blueprint for becoming transhuman.
 | Vasopressin | N/A | N/A |
 | Picamilon | N/A | N/A |
 | Gutimin | N/A | N/A |
+| Tianeptine | N/A | N/A |
+| Pyritinol | N/A | N/A |
+| Euclidan | N/A | N/A |
+| Meclofenoxate | N/A | N/A |
+| Cortexin | N/A | N/A |
+| Thymalin | N/A | N/A |
+| Thyroliberin | N/A | N/A |
+| Pantogam | N/A | N/A |
+| Tacrine | N/A | N/A |
+| Aminalon | N/A | N/A |
+| Lithium Orotate | N/A | N/A |
 
 # Longevity Drugs
 
@@ -101,6 +115,7 @@ A blueprint for becoming transhuman.
 | ---- | ----------- | ------- |
 | Epitalon | N/A | N/A |
 | Vincamine | N/A | N/A |
+| Vinpocetine | N/A | N/A |
 
 # Other Drugs
 
