@@ -110,63 +110,18 @@
 - OPCE 
 - cyclazodone speculated to be hepatotoxic and maybe be toxic in other ways 
 - Bemethyl has also been shown to prevent permanent hearing loss and facilitate recovery of hearing after mine-explosion trauma, when treatment is initiated immediately after injury.
-- Theacrine 
 - Magnolia bark 
-- Apigenin 
-- Vitamin k 
-- Cortexin 
-- pinealon 
-- istradafyline 
-- focalin 
-- epitalon 
 - etifoxine 
-- kava 
-- kanna 
-- ipamorelin 
-- celebrex 
 - white willow bark 
 - 4cl 
-- tudca 
-- idebenone 
-- roxadustat 
-- guanfacine 
-- pqq 
-- glucomannan 
-- twk-10 
 - p5p 
 - tranylcypromine 
 - neboglamine 
 - tb-500 
 - cbg 
-- panax ginseng 
 - vesugen 
-- carnosic acid 
-- Nicergoline 
-- Meclofenoxate 
-- etiracetam 
-- Pyritinol 
-- vinpocetine 
-- naftidrofuryl 
-- dihydroergotoxine 
-- lecithin 
-- Phosphatidylcholine 
-- Panax ginseng 
-- Ginkgo biloba 
-- Centella asiatica 
-- Withania somnifera 
-- Bacopa monnieri 
-- Paullinia cupana 
-- Schisandra chinensis 
-- Eleutherococcus senticosus 
-- Lepidium meyenii 
-- withaferin 
 - EPT 
 - MET 
-- tofisopam 
-- Taurine 
-- arginine 
-- cirtrulline 
-- methylsulphonylmethane 
 - nicotinomide riboside 
 - emoxypine - undo damage from alcohol 
 - cortexin 
@@ -240,3 +195,11 @@
 - Probiotics (kefir recommend by Kuja, instead of capsules which could be dead) 
 4dma
 urb597 (cannabinoid metabolism inhibitor)
+longevity:
+    physionic
+    khavinsons peptides
+    brad stanfield
+    paxs research acrer
+    dfo
+    intranasal insulin
+    ask brenden on Discord

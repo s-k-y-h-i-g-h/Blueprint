@@ -26,6 +26,7 @@ Self-care.
 | Fasoracetam | N/A | N/A |
 | Rolziracetam | N/A | N/A |
 | Nebracetam | N/A | N/A |
+| Etiracetam | N/A | N/A |
 | Noopept | N/A | N/A |
 | Nooglutyl | N/A | N/A |
 | ALCAR | N/A | N/A |
@@ -53,7 +54,7 @@ Self-care.
 | Phenibut | N/A | N/A |
 | 4-Fluorophenibut | N/A | N/A |
 | IDRA-21 | N/A | N/A |
-| Bacopa | N/A | N/A |
+| Bacopa Monnieri | N/A | N/A |
 | CDP Choline | N/A | N/A |
 | Alpha GPC | N/A | N/A |
 | Rhodiola Rosea | N/A | N/A |
@@ -102,6 +103,34 @@ Self-care.
 | Tacrine | N/A | N/A |
 | Aminalon | N/A | N/A |
 | Lithium Orotate | N/A | N/A |
+| L-Cirtrulline | N/A | N/A |
+| L-Arginine | N/A | N/A |
+| Tofisopam | N/A | N/A |
+| Withaferin | N/A | N/A |
+| Maca | N/A | N/A |
+| Eleutherococcus Senticosus | N/A | N/A |
+| Schisandra Chinensis  | N/A | N/A |
+| Guarana | N/A | N/A |
+| Gotu Kola | N/A | N/A |
+| Ginkgo Biloba | N/A | N/A |
+| Panax Ginseng  | N/A | N/A |
+| Phosphatidylcholine | N/A | N/A |
+| Lecithin | N/A | N/A |
+| Dihydroergotoxine | N/A | N/A |
+| Naftidrofuryl | N/A | N/A |
+| Meclofenoxate | N/A | N/A |
+| Nicergoline | N/A | N/A |
+| Carnosic Acid | N/A | N/A |
+| TUDCA | N/A | N/A |
+| Idebenone | N/A | N/A |
+| Roxadustat | N/A | N/A |
+| Guanfacine | N/A | N/A |
+| Celebrex | N/A | N/A |
+| Pinealon | N/A | N/A |
+| Vitamin K  | N/A | N/A |
+| Apigenin | N/A | N/A |
+| Theacrine | N/A | N/A |
+| PQQ | N/A | N/A |
 
 # Longevity Drugs
 
@@ -110,13 +139,23 @@ Self-care.
 | Epitalon | N/A | N/A |
 | Vincamine | N/A | N/A |
 | Vinpocetine | N/A | N/A |
+| MSM | N/A | N/A |
+
+# Supplements
+
+| Name | Information | Vendors |
+| ---- | ----------- | ------- |
+| Ipamorelin | N/A | N/A |
+| TWK-10  | N/A | N/A |
 
 # Other Drugs
 
 | Name | Information | Vendors |
 | ---- | ----------- | ------- |
 | GBR-12935 | N/A | N/A |
-| Blue lotus | N/A | N/A |
+| Blue Lotus | N/A | N/A |
+| Istradafyline | N/A | N/A |
+| Focalin | N/A | N/A |
 
 # Vendors
 - [Euro Nootropics](https://euro-nootropics.com/)
