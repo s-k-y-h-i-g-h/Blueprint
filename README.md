@@ -1,22 +1,16 @@
 # Blueprint
 A blueprint for becoming transhuman.
 
-# High Level Objectives
+# Objectives
 
-1. Self-care.
-	1. Log eaten, inhaled, insufflated, injected and plugged substances, activities and sleep patterns along with the time and date of each occurence.
-	2. [Fire fighting](https://www.techopedia.com/definition/16096/fire-fighting).
-		1. Cease consuming toxins and neurotoxins.
-		2. Supplement with substances to eliminate deficiencies.
-		3. Exercise regularly.
-	3. Investigate and buy substances and behaviours which improve cognitive ability, memory and mood (see: below).
-	4. Regularly investigate emerging technologies and medicines which improve cognitive ability.
-2. Social conduct/social life.
-	1. **WORK IN PROGRESS** Brainstorm: start going to psychotherapy sessions for a review of how healthy (or unhealthy) current social interactions are. Follow professional advice when behavioural changes are recommended and consume medicines as prescribed. Investigate how to best utilise help from therapists, if more than one therapist is necessary, if utilisation of specifically targeted or more general forms of therapy are necessary, etc. Basically, figure out the best approach to ensure that social interactions are healthy.
-3. Social conflicts.
-    1. **WORK IN PROGRESS** Brainstorm: identify demographics which are a mortal danger, physical danger, psychological danger and investigate how to respond to threats in a healthy way where peoples' rights and wellbeing are respected.
-4. Contributing to this project.
-    1. **WORK IN PROGRESS**
+Self-care.
+1. Log eaten, inhaled, insufflated, injected and plugged substances, activities and sleep patterns along with the time and date of each occurence.
+2. [Fire fighting](https://www.techopedia.com/definition/16096/fire-fighting).
+	1. Cease consuming toxins and neurotoxins.
+	2. Supplement with substances to eliminate deficiencies.
+	3. Exercise regularly.
+3. Investigate and buy substances and behaviours which improve cognitive ability, memory and mood (see: below).
+4. Regularly investigate emerging technologies and medicines which improve cognitive ability.
 
 # Nootropics
 
