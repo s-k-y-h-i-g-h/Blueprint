@@ -9,7 +9,7 @@ Self-care.
 	1. Cease consuming toxins and neurotoxins.
 	2. Supplement with substances to eliminate deficiencies.
 	3. Exercise regularly.
-3. Investigate and buy substances and behaviours which improve cognitive ability, memory and mood (see: below).
+3. Investigate and buy substances which improve cognitive ability, memory and mood (see: below).
 4. Regularly investigate emerging technologies and medicines which improve cognitive ability.
 
 # Nootropics
