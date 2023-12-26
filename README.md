@@ -132,6 +132,26 @@ Self-care.
 | Apigenin | N/A | N/A |
 | Theacrine | N/A | N/A |
 | PQQ | N/A | N/A |
+| Glycine | N/A | N/A |
+| Magnesium-L-Threonate | N/A | N/A |
+| Kisspeptin | N/A | N/A |
+| Creatine | N/A | N/A |
+| Dihexa | N/A | N/A |
+| Cerebrolysin | N/A | N/A |
+| P21 | N/A | N/A |
+| Saffron | N/A | N/A |
+| Sulphoraphane | N/A | N/A |
+| Phosphatidylserine | N/A | N/A |
+| Emoxypine | N/A | N/A |
+| Sulforaphane | N/A | N/A |
+| L-Arginine | N/A | N/A |
+| Benfotiamine | N/A | N/A |
+| Sunifiram | N/A | N/A |
+| Lions mane | N/A | N/A |
+| Agmatine | N/A | N/A |
+| Huperazine A  | N/A | N/A |
+| L-Tyrosine | N/A | N/A |
+| Vorinostat | N/A | N/A |
 
 ## Longevity Drugs
 
@@ -141,6 +161,8 @@ Self-care.
 | Vincamine | N/A | N/A |
 | Vinpocetine | N/A | N/A |
 | MSM | N/A | N/A |
+| Rapamycin | N/A | N/A |
+| Resveratrol | N/A | N/A |
 
 ## Supplements
 
@@ -157,6 +179,8 @@ Self-care.
 | Blue Lotus | N/A | N/A |
 | Istradafyline | N/A | N/A |
 | Focalin | N/A | N/A |
+| Lavela WS 1265 | N/A | N/A |
+| Mitragynine | N/A | N/A |
 
 ## Vendors
 - [Euro Nootropics](https://euro-nootropics.com/)
