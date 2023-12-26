@@ -1,5 +1,5 @@
 # Blueprint
-A blueprint for becoming transhuman.
+Upgrade your life.
 
 # Objectives
 
@@ -12,7 +12,8 @@ Self-care.
 3. Investigate and buy substances which improve cognitive ability, memory and mood (see: below).
 4. Regularly investigate emerging technologies and medicines which improve cognitive ability.
 
-# Nootropics
+# Substances
+## Nootropics
 
 | Name | Information | Vendors |
 | ---- | ----------- | ------- |
@@ -132,7 +133,7 @@ Self-care.
 | Theacrine | N/A | N/A |
 | PQQ | N/A | N/A |
 
-# Longevity Drugs
+## Longevity Drugs
 
 | Name | Information | Vendors |
 | ---- | ----------- | ------- |
@@ -141,14 +142,14 @@ Self-care.
 | Vinpocetine | N/A | N/A |
 | MSM | N/A | N/A |
 
-# Supplements
+## Supplements
 
 | Name | Information | Vendors |
 | ---- | ----------- | ------- |
 | Ipamorelin | N/A | N/A |
 | TWK-10  | N/A | N/A |
 
-# Other Drugs
+## Other Drugs
 
 | Name | Information | Vendors |
 | ---- | ----------- | ------- |
@@ -157,7 +158,7 @@ Self-care.
 | Istradafyline | N/A | N/A |
 | Focalin | N/A | N/A |
 
-# Vendors
+## Vendors
 - [Euro Nootropics](https://euro-nootropics.com/)
 - [Intellimeds.net](https://www.intellimeds.net/index.php?route=common/home)
 - [Amazon](https://www.amazon.com)
@@ -179,6 +180,13 @@ Self-care.
 - [Bryan Johnson's Protocol](https://protocol.bryanjohnson.com/)
 - [Nootropics subreddit on Reddit.com](http://reddit.com/r/nootropics)
 - [Lifespan.io](https://www.lifespan.io)
+
+# Software
+## Notes & Tasks
+- [Obsidian](https://obsidian.md/)
+- [Notion](https://www.notion.so/)
+- [Microsoft OneNote](https://www.microsoft.com/en-gb/microsoft-365/onenote/digital-note-taking-app?ms.url=onenotecom&rtc=1)
+- [Microsoft Todo](https://to-do.office.com/tasks/)
 
 ## Books
 - [Medical Improvement of the Cognitive Brain Function (Nootropics)](https://cosmicnootropic.com/wp-content/uploads/2023/08/Books-about-Nootropics.-Arushanian_final-with-the-cover.pdf)
