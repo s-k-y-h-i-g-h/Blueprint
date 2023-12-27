@@ -152,6 +152,8 @@ Self-care.
 | Huperazine A  | N/A | N/A |
 | L-Tyrosine | N/A | N/A |
 | Vorinostat | N/A | N/A |
+| Niacin | N/A | N/A |
+| Pterostilbene | N/A | N/A |
 
 ## Longevity Drugs
 
@@ -163,6 +165,10 @@ Self-care.
 | MSM | N/A | N/A |
 | Rapamycin | N/A | N/A |
 | Resveratrol | N/A | N/A |
+| Spermidine | N/A | N/A |
+| Hyaluronic Acid | N/A | N/A |
+| NMN | N/A | N/A |
+| Metformin | N/A | N/A |
 
 ## Supplements
 
