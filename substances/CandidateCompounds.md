@@ -58,20 +58,14 @@
 - cyclazodone speculated to be hepatotoxic and maybe be toxic in other ways 
 - Bemethyl has also been shown to prevent permanent hearing loss and facilitate recovery of hearing after mine-explosion trauma, when treatment is initiated immediately after injury.
 - Magnolia bark 
-- etifoxine 
 - white willow bark 
 - 4cl 
-- p5p 
 - tranylcypromine 
 - tb-500 
 - cbg 
 - vesugen 
 - EPT 
 - MET 
-- nicotinomide riboside 
-- emoxypine - undo damage from alcohol 
-- mexidol 
-- afobazole 
 - Opioids: 
     - U47700 
     - Brorphine 
@@ -82,30 +76,20 @@
     - Ethylene 
     - Etonitazepipne 
     - 2-phenethyl-noroxymorphone phenomorphone 
-- PQQ 
 - Gcp ii inhibitor for alcohol 
 - Reoferon ?
-- Pqq, Carnosic acid, idebenone, tudca  longevity 
-- PBN 
-- Ebselen 
-- Secoverine  
-- D-cycloserine  
-- Sodium oxybutrate  
-- Sodium valporate  
+- PBN ????
+- Secoverine  ???
 - Carbamazepine  ?
-- Cytomedins  
+- Cytomedins  ????
 - Peptidase inhibitors 
 - Dipeptides  
 - 2-ethyl-6-methyl-3-oxypiridine 
 - Oxymetacil  ?
 - Lemongrass   ?
-- Sydnocarb  
 - Calcium channel blockers 
-- Raloxifene  
-- Sarcosine – helps with schizophrenia 
-- TMG 
+- Raloxifene  ???
 - Red light therapy 
-- Carnosic Acid and Magtein help my sleep quality so I'm ok with less, but not sure I would aim for less sleep though 
 - 7,8 DHF or 4-DMA 
 - KOR is hyperactive in withdrawal phase for most drugs which causes augmented cortisol and bad mood while oxytocin is reverse of KOR 
 - Read up Dynorphin->Cortisol<-Oxytocin axis 
@@ -123,3 +107,5 @@ longevity:
     dfo
     intranasal insulin
     ask brenden on Discord
+dha
+cyproheptadine
