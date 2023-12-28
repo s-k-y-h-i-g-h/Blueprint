@@ -154,6 +154,18 @@ Self-care.
 | Vorinostat | N/A | N/A |
 | Niacin | N/A | N/A |
 | Pterostilbene | N/A | N/A |
+| Sodium Oxybutrate | N/A | N/A |
+| D-Serine | N/A | N/A |
+| D-Cycloserine | N/A | N/A |
+| Sodium Valporate  | N/A | N/A |
+| NAC | N/A | N/A |
+| TMG | N/A | N/A |
+| Sarcosine | N/A | N/A |
+| Afobazole | N/A | N/A |
+| Mexidol | N/A | N/A |
+| Emoxypine | N/A | N/A |
+| Nicotinomide Riboside | N/A | N/A |
+| P5P | N/A | N/A |
 
 ## Longevity Drugs
 
@@ -169,6 +181,11 @@ Self-care.
 | Hyaluronic Acid | N/A | N/A |
 | NMN | N/A | N/A |
 | Metformin | N/A | N/A |
+| Idebenone | N/A | N/A |
+| PQQ | N/A | N/A |
+| Carnosol | N/A | N/A |
+| TUDCA | N/A | N/A |
+| Nicotinomide Riboside | N/A | N/A |
 
 ## Supplements
 
@@ -187,6 +204,9 @@ Self-care.
 | Focalin | N/A | N/A |
 | Lavela WS 1265 | N/A | N/A |
 | Mitragynine | N/A | N/A |
+| Ebselen | N/A | N/A |
+| Sydnocarb | N/A | N/A |
+| Etifoxine | N/A | N/A |
 
 ## Vendors
 - [Euro Nootropics](https://euro-nootropics.com/)
