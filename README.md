@@ -2,8 +2,11 @@
 Upgrade your life. You are about to be limitlesspilled.
 
 # Objectives
-
-Self-care.
+To improve:
+- Cognitive ability
+- Memory
+- Mood
+- Longevity
 
 ## Logging Your Behaviours
 Log the time and date of:
