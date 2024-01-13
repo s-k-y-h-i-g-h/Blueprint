@@ -186,7 +186,7 @@ Regularly investigate emerging technologies and medicines which improve your lif
 | Nicotinomide Riboside | N/A | N/A |
 | P5P | N/A | N/A |
 
-## Longevity Drugs
+## Longevity Substances
 
 | Name | Information | Vendors |
 | ---- | ----------- | ------- |
@@ -205,6 +205,8 @@ Regularly investigate emerging technologies and medicines which improve your lif
 | Carnosol | N/A | N/A |
 | TUDCA | N/A | N/A |
 | Nicotinomide Riboside | N/A | N/A |
+| Curcumin | N/A | N/A |
+| Melatonin | N/A | N/A |
 
 ## Supplements
 
