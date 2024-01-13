@@ -23,8 +23,10 @@ Identify any toxins and neurotoxins that you regularly consume and cease consumi
 ## Follow Best Practises
 Make sure that all of your RDA's are met (see: the Resources section below for government guidelines). Do both aerobic and anaerobic exercise regularly.
 
-## Planning When To Use Your Stack
-Investigate and buy substances which improve cognitive ability, memory and mood (see: the Nootropics section below). Use software to plan when to take your stack (see: the Notes & Tasks section below).
+## Planning Your Stack
+1. Investigate and buy substances which improve cognitive ability, memory and mood (see: the Nootropics section below). 
+2. Use software to plan when to take your stack (see: the Notes & Tasks section below). 
+3. Check if the substance in question is toxic.
 
 ## Look Ahead
 Regularly investigate emerging technologies and medicines which improve your life.
