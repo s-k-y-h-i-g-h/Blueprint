@@ -4,13 +4,27 @@ Upgrade your life. You are about to be limitlesspilled.
 # Objectives
 
 Self-care.
-1. Log eaten, inhaled, insufflated, injected and plugged substances, activities and sleep patterns along with the time and date of each occurence.
-2. [Fire fighting](https://www.techopedia.com/definition/16096/fire-fighting).
-	1. Cease consuming toxins and neurotoxins.
-	2. Supplement with substances to eliminate deficiencies.
-	3. Exercise regularly.
-3. Investigate and buy substances which improve cognitive ability, memory and mood (see: below).
-4. Regularly investigate emerging technologies and medicines which improve cognitive ability.
+
+## Logging Your Behaviours
+Log the time and date of:
+- What you eat, inhale, insufflate, inject and plug.
+- Your activities (e.g. jogging, reading, writing code).
+- When you sleep and how long you sleep.
+
+Why? Because it will help you to identify when you are in the "zone" and what you did to achieve that state of flow. It will make it reproducible.
+
+## Removing Toxins From Your Diet
+If necessary, do some [Fire fighting](https://www.techopedia.com/definition/16096/fire-fighting).
+Identify any toxins and neurotoxins that you regularly consume and cease consuming them. If you can't do it all at once then try to delay it every time you do it. Keep increasing the delay duration. 
+
+## Follow Best Practises
+Make sure that all of your RDA's are met (see: the Resources section below for government guidelines). Do both aerobic and anaerobic exercise regularly.
+
+## Planning When To Use Your Stack
+Investigate and buy substances which improve cognitive ability, memory and mood (see: the Nootropics section below). Use software to plan when to take your stack (see: the Notes & Tasks section below).
+
+## Look Ahead
+Regularly investigate emerging technologies and medicines which improve your life.
 
 # Substances
 ## Nootropics
