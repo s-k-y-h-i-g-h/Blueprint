@@ -245,12 +245,16 @@ Regularly investigate emerging technologies and medicines which improve your lif
 - [ebay](https://www.ebay.com/)
 - [iHerb](https://iherb.com/)
 - [BG Pharmaceuticals](https://www.bgpharmadrugs.com/)
+- [Sunset City](https://www.sunsetcity.ca/)
 
 # Resources
 ## Useful sites
 - [Bryan Johnson's Protocol](https://protocol.bryanjohnson.com/)
 - [Nootropics subreddit on Reddit.com](http://reddit.com/r/nootropics)
 - [Lifespan.io](https://www.lifespan.io)
+- [Nootropics Wiki](https://beta.nootropicswiki.org/)
+- [Prefrontal Subreddit](https://www.reddit.com/r/prefrontal/)
+- [Nootopics Subreddit](https://www.reddit.com/r/NooTopics/)
 
 # Software
 ## Notes & Tasks
